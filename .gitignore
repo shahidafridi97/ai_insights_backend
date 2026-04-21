@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+.env.development
+.env.production
+
+# Build / cache
+dist/
+build/
+.cache/
+
+# Next.js (if reused)
+.next/
+out/
+
+# VS Code
+.vscode/
+
+# Optional: lock file (if team-based keep it, else ignore)
+# yarn.lock
+
+# Temporary files
+*.tmp
+*.temp
+
+# Parquet / data (optional if large files)
+*.parquet
